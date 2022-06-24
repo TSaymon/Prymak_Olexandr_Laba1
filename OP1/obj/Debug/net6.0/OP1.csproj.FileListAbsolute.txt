@@ -1,0 +1,17 @@
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\OP1.exe
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\OP1.deps.json
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\OP1.runtimeconfig.json
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\OP1.dll
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\OP1.pdb
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.csproj.AssemblyReference.cache
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.AssemblyInfoInputs.cache
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.AssemblyInfo.cs
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.csproj.CopyComplete
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.dll
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\refint\OP1.dll
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.pdb
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\OP1.genruntimeconfig.cache
+C:\Users\Sasha\OneDrive\Desktop\Лабы\ОП\OP1\OP1\OP1\obj\Debug\net6.0\ref\OP1.dll
